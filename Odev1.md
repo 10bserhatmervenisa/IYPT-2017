@@ -1,21 +1,18 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
+10-B   | Merve Alper    | 428
+10-B   | Serhat Şahin   | 380
+10-B   | Nisa Nur Usta  | 481
+#  Akkor Lamba
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+İki tane 60 wattlık ampülün 40 wattlık 3 ampülden daha parlak yandığı söylenir. Bunun doğruluğunu test etmek amacıyla 2 tane 60 wattlık almpül ve 3 tane 40wattlık ampül alınacaktır önce 2 tane 60 wattlık ampülün parlaklığını ölçmek için 2 deneyde de kontrol edilen degişken olarak odanın ışık şiddeti olacak ve ampülün yanına konulan bir cetvelin gölge boyu ölcülerek not edilecektir. Daha sonra aynı işlem 3 tane 40 wattlik ampül için yapılacak ve gölge boyu not edilecektir. Gölge boyu uzun olan daha az parlak yanmış olacağı için bu sözün doğruluğunu test etmiş olacağız. Devredeki ufak bir değişimin ampül ömrüne etkisini ise önce üreteç olarak adlandırdığımız pil veya bataryadan 2 tane alınacak önce devreye seri bağlanacak daha sonra paralel bağlanarak ampül ömrü ölçülecektir. Bir diğer değişiklik de 2 tane 40 wattlık ampülü bağladığımız kablonun boyu uzatılarak ampül ömrü ölçülecektir.
+Bir diğer değişiklik 2 tane 40 wattlık ampül deneyinde 2 pil alarak önce düz sonra ters bağlanarak ampül ömrü ölçülecektir. Bu deneylerin sonucunda kablo uzunluğunun ,üretecin seri veya paralel bağlanmasının üretecin düz veya ters bağlanmasının ampül ömrüne etkisi olup olmadığı ve 2 tane 60 wattlık ampülün 3 tane 40 wattlik ampülden daha parlak yanip yanmadığı denenerek sonuçlar gözlenecektir.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. http://www.derscalisiyorum.com.tr/fizik-konu-anlatimi/elektrik-akimi.html
+ 2. http://www.elektrikrehberiniz.com/elektrik/voltaj-nedir-13053/
+ 3. ARAS, Erdal, Konu Özetli Soru Bankası, Esen yayınları, Sf 133 ve 153.
+Son erişim tarihi: 27 Ekim 2017
 
